@@ -1,0 +1,23 @@
+{
+  "timezone": "Asia/Kolkata",
+  "language": "en",
+  "currency": "EUR",
+  "emailNotifications": true,
+  "pushNotifications": true,
+  "smsNotifications": false,
+  "maintenanceMode": false,
+  "twoFactorAuth": false,
+  "sessionTimeout": "30",
+  "passwordExpiry": "90",
+  "ipWhitelist": "",
+  "apiKey": "sk_live_xxxxx",
+  "webhookUrl": "",
+  "smtpHost": "",
+  "smtpPort": "587",
+  "smtpUser": "",
+  "smtpPassword": "",
+  "senderName": "Event Hub",
+  "senderEmail": "",
+  "websiteName": "EVENT HUB ",
+  "websiteLogo": "/uploads/branding/logo_1771819475905.png"
+}
