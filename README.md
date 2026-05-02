@@ -14,6 +14,12 @@ EventHub is a full-stack web application that allows users to:
 * Receive real-time updates and notifications
 * Manage users and bookings via an admin dashboard
 
+
+## 📸 Screenshots
+
+### 🏠 Homepage UI
+![Homepage](assets/homepage.png)
+
 ---
 
 ## 🚀 Key Features
