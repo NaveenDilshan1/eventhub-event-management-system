@@ -18,8 +18,11 @@ EventHub is a full-stack web application that allows users to:
 ## 📸 Screenshots
 
 
-![Homepage](https://github.com/NaveenDilshan1/eventhub-event-management-system/blob/main/frontend/src/assets/homepage.png?raw=true)
 
+
+<p align="center">
+  <img src="https://github.com/NaveenDilshan1/eventhub-event-management-system/blob/main/frontend/src/assets/homepage.png?raw=true" width="900"/>
+</p>
 ---
 
 ## 🚀 Key Features
